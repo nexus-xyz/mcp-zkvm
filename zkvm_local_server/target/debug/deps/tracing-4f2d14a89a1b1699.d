@@ -1,0 +1,13 @@
+/Users/evan/mcp-zkvm/zkvm_local_server/target/debug/deps/libtracing-4f2d14a89a1b1699.rmeta: /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/lib.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/macros.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/dispatcher.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/field.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/instrument.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/level_filters.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/span.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/stdlib.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/subscriber.rs
+
+/Users/evan/mcp-zkvm/zkvm_local_server/target/debug/deps/tracing-4f2d14a89a1b1699.d: /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/lib.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/macros.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/dispatcher.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/field.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/instrument.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/level_filters.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/span.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/stdlib.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/subscriber.rs
+
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/lib.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/macros.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/dispatcher.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/field.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/instrument.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/level_filters.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/span.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/stdlib.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tracing-0.1.41/src/subscriber.rs:

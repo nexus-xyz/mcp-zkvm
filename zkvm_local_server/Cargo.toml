@@ -1,0 +1,12 @@
+[package]
+name = "zkvm_local_server"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "4"
+nexus-sdk = { git = "https://github.com/nexus-xyz/nexus-zkvm.git", tag = "0.3.2", version = "0.3.2" }
+postcard = "1.1.1"
+clap = { version = "4.0", features = ["derive"] }

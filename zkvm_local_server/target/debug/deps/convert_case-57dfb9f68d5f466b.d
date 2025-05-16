@@ -1,0 +1,11 @@
+/Users/evan/mcp-zkvm/zkvm_local_server/target/debug/deps/libconvert_case-57dfb9f68d5f466b.rmeta: /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/lib.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/boundary.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/case.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/converter.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/pattern.rs
+
+/Users/evan/mcp-zkvm/zkvm_local_server/target/debug/deps/libconvert_case-57dfb9f68d5f466b.rlib: /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/lib.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/boundary.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/case.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/converter.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/pattern.rs
+
+/Users/evan/mcp-zkvm/zkvm_local_server/target/debug/deps/convert_case-57dfb9f68d5f466b.d: /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/lib.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/boundary.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/case.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/converter.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/pattern.rs
+
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/lib.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/boundary.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/case.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/converter.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/convert_case-0.7.1/src/pattern.rs:

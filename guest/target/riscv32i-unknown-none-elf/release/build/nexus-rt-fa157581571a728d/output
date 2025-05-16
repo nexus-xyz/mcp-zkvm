@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=./linker-scripts/default.x
+cargo:rustc-link-search=/Users/evan/mcp-zkvm/guest/target/riscv32i-unknown-none-elf/release/build/nexus-rt-fa157581571a728d/out

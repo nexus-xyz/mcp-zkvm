@@ -1,0 +1,13 @@
+/Users/evan/mcp-zkvm/zkvm_local_server/target/debug/deps/libnexus_sdk-71e6dbff00e55a9d.rmeta: /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/lib.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/stwo/mod.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/stwo/seq.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/traits.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/compile/mod.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/compile/cargo.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/error.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/../README.md /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/compile/./linker-scripts/default.x
+
+/Users/evan/mcp-zkvm/zkvm_local_server/target/debug/deps/nexus_sdk-71e6dbff00e55a9d.d: /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/lib.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/stwo/mod.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/stwo/seq.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/traits.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/compile/mod.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/compile/cargo.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/error.rs /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/../README.md /Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/compile/./linker-scripts/default.x
+
+/Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/lib.rs:
+/Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/stwo/mod.rs:
+/Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/stwo/seq.rs:
+/Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/traits.rs:
+/Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/compile/mod.rs:
+/Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/compile/cargo.rs:
+/Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/error.rs:
+/Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/../README.md:
+/Users/evan/.cargo/git/checkouts/nexus-zkvm-a7184f46450a6996/7b6597a/sdk/src/compile/./linker-scripts/default.x:

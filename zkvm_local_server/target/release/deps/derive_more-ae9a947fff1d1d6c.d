@@ -1,0 +1,11 @@
+/Users/evan/mcp-zkvm/zkvm_local_server/target/release/deps/libderive_more-ae9a947fff1d1d6c.rmeta: /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/lib.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/as.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/vendor/mod.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/vendor/thiserror/mod.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/vendor/thiserror/aserror.rs
+
+/Users/evan/mcp-zkvm/zkvm_local_server/target/release/deps/libderive_more-ae9a947fff1d1d6c.rlib: /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/lib.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/as.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/vendor/mod.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/vendor/thiserror/mod.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/vendor/thiserror/aserror.rs
+
+/Users/evan/mcp-zkvm/zkvm_local_server/target/release/deps/derive_more-ae9a947fff1d1d6c.d: /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/lib.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/as.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/vendor/mod.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/vendor/thiserror/mod.rs /Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/vendor/thiserror/aserror.rs
+
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/lib.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/as.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/vendor/mod.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/vendor/thiserror/mod.rs:
+/Users/evan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive_more-2.0.1/src/vendor/thiserror/aserror.rs:
