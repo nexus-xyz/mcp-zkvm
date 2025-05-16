@@ -1,1 +1,0 @@
-{"rustc":1724918652567212580,"features":"[]","declared_features":"[\"default\", \"use_std\"]","target":1103185694131527289,"profile":2040997289075261528,"path":7682666431268377128,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/cobs-46f8c012b772d441/dep-lib-cobs","checksum":false}}],"rustflags":[],"config":2069994364910194474,"compile_kind":0}

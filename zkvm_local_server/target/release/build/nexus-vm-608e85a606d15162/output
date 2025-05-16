@@ -1,3 +1,0 @@
-cargo::rerun-if-changed=../precompiles/examples/dummy_div/*
-cargo::rerun-if-changed=../precompiles/examples/dummy_hash/*
-cargo:info=Skipping building test guest programs because NEXUS_VM_BUILD_GUEST_TEST_BINARIES is not set.
